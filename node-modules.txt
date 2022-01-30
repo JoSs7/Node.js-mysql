@@ -1,0 +1,11 @@
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "express-mysql-session": "^2.1.7",
+    "express-router": "^0.0.1",
+    "express-session": "^1.17.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2",
+    "vue": "^2.6.14"
